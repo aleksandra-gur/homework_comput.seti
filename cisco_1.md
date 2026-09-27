@@ -26,4 +26,4 @@
 Но /28 дает только 16 подсетей. Нам нужно 20.
 Поэтому берем /27. Она дает 32 подсети и 30 узлов — это подходит.
 Ответ: /27
-![Скриншот](https://raw.githubusercontent.com/aleksandra-gur/homework_comput.seti/main/homework_4.png))
+![Скриншот](https://raw.githubusercontent.com/aleksandra-gur/homework_comput.seti/main/homework_4.png)
